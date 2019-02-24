@@ -8,3 +8,4 @@ Just [download the .alfredworkflow](https://github.com/caiobep/my-window-switche
 Feel free to customize it to your needs!
 
 ## License
+This project was licensed using ["DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE"](LICENSE)
